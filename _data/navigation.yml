@@ -17,6 +17,9 @@ main:
     
   - title: "Resume/CV"
     url: /files/Resume.pdf
+
+  - title: "DWMC"
+    url: https://rulerofeternalnight.github.io/AUV/
     
   # - title: "Guide"
   #   url: /markdown/
