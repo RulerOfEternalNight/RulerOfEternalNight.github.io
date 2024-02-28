@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://rulerofeternalnight.github.io/AUV/res/JegaditSS.JPG"
+  avatar           : "images/DSC_0390.JPG"
   name             : "Jegadit S Saravanan"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
