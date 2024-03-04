@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<br/>
 I am Jegadit S Saravanan, a Computer Science and Engineering student at Amrita Vishwa Vidyapeetham, Coimbatore. I have a keen interest in robotics & machine learning.
 
 I used to be really into cybersecurity, but I've since shifted my focus to develop intelligent and autonomous systems. I am always eager to explore new technologies & concepts. Throughout my academic journey & professional experiences, I've consistently sought opportunities to apply my skills and knowledge to real-world problems, pushing the boundaries & delivering impactful solutions.
