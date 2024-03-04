@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "About me"
+title: "ヾ(⌐■_■)ノ♪  Hello!! "
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-## ヾ(⌐■_■)ノ♪  Hello!! 
 
 I am Jegadit S Saravanan, a Computer Science and Engineering student at Amrita Vishwa Vidyapeetham, Coimbatore. I have a keen interest in robotics & machine learning.
 
