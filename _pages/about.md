@@ -8,11 +8,11 @@ redirect_from:
 ---
 ## ヾ(⌐■_■)ノ♪  Hello!! 
 
-I am Jegadit S Saravanan, a Computer Science and Engineering student at Amrita Vishwa Vidyapeetham, Coimbatore. I have a keen interest in robotics, machine learning.
+I am Jegadit S Saravanan, a Computer Science and Engineering student at Amrita Vishwa Vidyapeetham, Coimbatore. I have a keen interest in robotics & machine learning.
 
-I used to be really into cybersecurity, but I've since shifted my focus to develop intelligent and autonomous systems using ML and DL. I am always eager to explore new technologies and concepts. Throughout my academic journey and professional experiences, I've consistently sought opportunities to apply my skills and knowledge to real-world problems, pushing the boundaries and delivering impactful solutions.
+I used to be really into cybersecurity, but I've since shifted my focus to develop intelligent and autonomous systems. I am always eager to explore new technologies & concepts. Throughout my academic journey & professional experiences, I've consistently sought opportunities to apply my skills and knowledge to real-world problems, pushing the boundaries & delivering impactful solutions.
 
-I co-founded the [Deep Water Marine Club](https://rulerofeternalnight.github.io/AUV/), where I actively contribute as a Robotics Engineer and ML/DL Researcher, alongside three like-minded friends who shared my passion for merging robotics, machine learning and deep learning for real-world practical applications. We started this student-led club to support our final year project but it soon became a platform for individuals interested in fields such as robotics, computer science, aerospace, and communication systems to connect, share knowledge, and collaborate on projects.
+I co-founded the [Deep Water Marine Club](https://rulerofeternalnight.github.io/AUV/), where I actively contribute as a Robotics Engineer and ML/DL Researcher, alongside three like-minded friends who shared my passion for merging robotics, ML & DL for real-world practical applications. We started this student-led club to support our final year project but it soon became a platform for individuals interested in fields such as robotics, computer science, aerospace, & communication systems to connect, share knowledge, and collaborate on projects.
 
 If you share my interests or just want to talk, feel free to reach out to me. :)
 
