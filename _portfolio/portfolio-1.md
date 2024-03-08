@@ -11,4 +11,3 @@ collection: portfolio
 
 NO CONTENT here yet. Visit again later
 
-[Visit](https://github.com/RulerOfEternalNight/AmritaCanteenApp)
