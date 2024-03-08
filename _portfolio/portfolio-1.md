@@ -1,6 +1,10 @@
 ---
 title: "Amrita Canteen App"
-excerpt: "Web App. built using advanced DL techniques to provide insights into the menu & crowd statistics of the canteen using CCTV cameras. <small><i>Under review of the college board, to be adopted in canteens.</i></small> <br/><br/><img src='/images/p1.jpeg' width='400' height='300'>"
+excerpt: "Web App. built using advanced DL techniques to provide insights into the menu & crowd statistics of the canteen using CCTV cameras. <small><i>Under review of the college board, to be adopted in canteens.</i></small> <br/><br/>
+<div style='display: flex; flex-wrap: wrap;'>
+  <img src='/images/p1.jpeg' width='400' height='300' style='width: 100%; height: auto; margin-bottom: 20px;'>
+  <img src='/images/crowd.png'  style='width: 100%; height: auto; margin-bottom: 20px;'>
+</div>"
 collection: portfolio
 ---
 
