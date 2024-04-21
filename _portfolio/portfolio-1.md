@@ -4,7 +4,7 @@ excerpt: "<small><i>Get pip package: [Visit](https://pypi.org/project/jss-optimi
 This repository [Link](https://github.com/RulerOfEternalNight/JSS_HybridOptimizier) contains a Python package jss_optimizer for optimizing hyperparameters using genetic algorithm (GA) and simulated annealing (SA) hybrid optimization algorithm.
 
 <br/><br/>
-<img src='https://raw.githubusercontent.com/RulerOfEternalNight/AI-based-parameter-estimation-of-ML-model-using-Hybrid-of-Genetic-Algorithm-and-Simulated-Annealing/main/IMGRES/ABPEoMLmuHoGAaSA/Slide7.PNG' =250x>"
+<img src='https://raw.githubusercontent.com/RulerOfEternalNight/AI-based-parameter-estimation-of-ML-model-using-Hybrid-of-Genetic-Algorithm-and-Simulated-Annealing/main/IMGRES/ABPEoMLmuHoGAaSA/Slide7.PNG' height='200'>"
 
 collection: portfolio
 ---
