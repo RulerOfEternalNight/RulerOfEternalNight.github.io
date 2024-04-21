@@ -1,6 +1,6 @@
 ---
 title: "Hyperparameter Optimization with Genetic Algorithm and Simulated Annealing"
-excerpt: "<small><i>Get package: [Visit](https://pypi.org/project/jss-optimizer/)</i><br/></small>
+excerpt: "<small><i>Get pip package: [Visit](https://pypi.org/project/jss-optimizer/)</i><br/></small>
 This repository [Link](https://github.com/RulerOfEternalNight/JSS_HybridOptimizier) contains a Python package jss_optimizer for optimizing hyperparameters using genetic algorithm (GA) and simulated annealing (SA) hybrid optimization algorithm.
 
 <br/><br/>
