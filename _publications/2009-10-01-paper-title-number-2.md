@@ -1,5 +1,5 @@
 ---
-title: "Enhancing AUV Sensor Precision with Adaptive Genetic Algorithm aided Kalman Filtering (AGAKF)"
+title: "Enhancing AUV Sensor Precision with Adaptive Genetic Algorithm aided Kalman Filtering"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-2
 excerpt: 'Accurate sensor data is crucial for the successful operation of Autonomous Underwater Vehicles (AUVs). However, dynamic underwater environments and inherent sensor limitations pose significant challenges. This paper investigates using the Kalman filter to enhance instantanoius sensor data accuracy in AUV navigation by integrating with Genetic Algorithms (GAs). The proposed Adaptive Genetic Algorithm-based Kalman Filter (AGAKF) adjusts filter parameters in real-time using GAs as compared to the existing methods that use batch processing. Extensive simulations and comparisons show that AGAKF achieves superior noise reduction and better signal preservation than the existing techniques, enhancing AUV navigation accuracy in diverse underwater environments.'
