@@ -10,7 +10,7 @@ I am Jegadit S Saravanan, an incoming MS CS student at UIC. I did my Bachelors i
 
 I have a keen interest in robotics & machine learning.
 
-I used to be really into cybersecurity, but I've since shifted my focus to develop intelligent and autonomous systems. I am always eager to explore new technologies & concepts. Throughout my academic journey & professional experiences, I've consistently sought opportunities to apply my skills and knowledge to real-world problems, pushing the boundaries & delivering impactful solutions.
+I used to be really into cybersecurity, but I've since shifted my focus to intelligent & autonomous systems. I am always eager to explore new technologies & concepts. Throughout my academic journey & professional experiences, I've consistently sought opportunities to apply my skills and knowledge to real-world problems, pushing the boundaries & delivering impactful solutions.
 
 I co-founded the [Deep Water Marine Club](https://rulerofeternalnight.github.io/AUV/), where I actively contribute as a Robotics Engineer and ML/DL Researcher, alongside three like-minded friends who shared my passion for merging robotics, ML & DL for real-world practical applications. We started this student-led club to support our final year project but it soon became a platform for individuals interested in fields such as robotics, computer science, aerospace, & communication systems to connect, share knowledge, and collaborate on projects.
 
