@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 I am Jegadit S Saravanan, an incoming MS CS student at UIC. I did my Bachelors in Computer Science and Engineering at Amrita Vishwa Vidyapeetham, Coimbatore. 
 
 I have a keen interest in robotics & machine learning.
