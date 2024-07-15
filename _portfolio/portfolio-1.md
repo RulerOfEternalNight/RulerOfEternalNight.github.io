@@ -10,7 +10,7 @@ excerpt: "AUV
 collection: portfolio
 ---
 
-AUV
+## GO to: https://rulerofeternalnight.github.io/AUV/
 
 <video width='75%' controls controlsList="nodownload" oncontextmenu="return false;">
   <source src="/images/video.mp4" type="video/mp4">
