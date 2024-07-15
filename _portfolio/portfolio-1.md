@@ -12,7 +12,7 @@ collection: portfolio
 
 AUV
 
-<video width="450" height="350" controls>
+<video controls>
   <source src="/images/video.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
