@@ -17,7 +17,7 @@ AUV
 Your browser does not support the video tag.
 </video>
 
-<div style="justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; max-width: 100%; overflow: hidden;">
     <img src='/images/fiter.png' >
     <img src='/images/video.gif' >
 </div>
