@@ -11,12 +11,6 @@ collection: portfolio
 ---
 
 
-Here's the updated content with the inclusion of data from NIOT:
-
----
-
-### Sea Dragon: Autonomous Underwater Vehicle (AUV)
-
 **Overview:**
 The Sea Dragon is an advanced Autonomous Underwater Vehicle (AUV) designed for underwater exploration and data collection. Built using state-of-the-art components, including an ESP32, Raspberry Pi 4B, and a variety of sensors, the Sea Dragon is capable of executing complex missions in challenging underwater environments.
 
