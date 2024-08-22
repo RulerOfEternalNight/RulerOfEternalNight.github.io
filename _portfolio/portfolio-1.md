@@ -21,16 +21,19 @@ The Sea Dragon is an advanced Autonomous Underwater Vehicle (AUV) designed for u
 Your browser does not support the video tag.
 </video>
 - **Precision Control System:** Utilizes an L298N motor driver for smooth and precise control of the vehicle's thrusters, ensuring stable maneuvering.
+<div style="display: flex; justify-content: center; align-items: center; max-width: 100%;">
+    <img src='/images/fiter.png' alt="Image 1" style="margin: 10px; max-width: 50%; height: auto;">
+</div>
 - **High-Resolution Imaging:** Features a Microsoft LifeCam VX-2000, providing clear underwater visuals for mapping and inspection tasks.
+<div style="display: flex; justify-content: center; align-items: center; max-width: 100%;">
+    <img src='/images/video.gif' alt="GIF 1" style="margin: 10px; max-width: 50%; height: auto;">
+</div>
 - **Environmental Sensing:** Integrated with BMP280 and DS18B20 sensors to monitor depth, temperature, and pressure, vital for maintaining operational safety and efficiency.
 - **Adaptive Algorithms:** Incorporates an [Adaptive Genetic Algorithm aided Kalman Filtering (AGAKF)](https://rulerofeternalnight.github.io/publication/2009-10-01-paper-title-number-2) system, significantly enhancing the accuracy of sensor readings and overall vehicle performance.
 
 **Project Highlights:**
 - **Sensor Precision Enhancement:** Developed an innovative AGAKF system to optimize sensor accuracy, reducing error deviations by over 90% compared to traditional methods.
-<div style="display: flex; justify-content: center; align-items: center; max-width: 100%;">
-    <img src='/images/fiter.png' alt="Image 1" style="margin: 10px; max-width: 50%; height: auto;">
-    <img src='/images/video.gif' alt="GIF 1" style="margin: 10px; max-width: 50%; height: auto;">
-</div>
+
 - **Data-Driven Development:** Leveraged real-world data from the National Institute of Ocean Technology (NIOT) to fine-tune and validate the AGAKF algorithm, ensuring robust performance in diverse underwater conditions.
 - **Collaborative Effort:** The project was a collaborative endeavor with experts and academics, demonstrating the ability to work in interdisciplinary teams.
 - **Practical Applications:** Sea Dragon is designed to support various applications, including environmental monitoring, underwater mapping, and resource exploration.
