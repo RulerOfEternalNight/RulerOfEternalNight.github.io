@@ -16,12 +16,15 @@ The Sea Dragon is an advanced Autonomous Underwater Vehicle (AUV) designed for u
 
 **Key Features:**
 - **Real-Time Data Processing:** Equipped with a Raspberry Pi 4B, the Sea Dragon processes data on-the-fly, enabling real-time decision-making and navigation adjustments.
-<video width='75%' controls controlsList="nodownload" oncontextmenu="return false;">
-  <source src="/images/video.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<div style="display: flex; justify-content: center; align-items: center; max-width: 100%;">
+  <video width='75%' controls controlsList="nodownload" oncontextmenu="return false;">
+    <source src="/images/video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 - **Precision Control System:** Utilizes an L298N motor driver for smooth and precise control of the vehicle's thrusters, ensuring stable maneuvering.
 <div style="display: flex; justify-content: center; align-items: center; max-width: 100%;">
+    <img src='/images/fiter.png' alt="Image 1" style="margin: 10px; max-width: 50%; height: auto;">
     <img src='/images/fiter.png' alt="Image 1" style="margin: 10px; max-width: 50%; height: auto;">
 </div>
 - **High-Resolution Imaging:** Features a Microsoft LifeCam VX-2000, providing clear underwater visuals for mapping and inspection tasks.
