@@ -23,7 +23,7 @@ Your browser does not support the video tag.
 - **Precision Control System:** Utilizes an L298N motor driver for smooth and precise control of the vehicle's thrusters, ensuring stable maneuvering.
 - **High-Resolution Imaging:** Features a Microsoft LifeCam VX-2000, providing clear underwater visuals for mapping and inspection tasks.
 - **Environmental Sensing:** Integrated with BMP280 and DS18B20 sensors to monitor depth, temperature, and pressure, vital for maintaining operational safety and efficiency.
-- **Adaptive Algorithms:** Incorporates an Adaptive Genetic Algorithm aided Kalman Filtering (AGAKF) system, significantly enhancing the accuracy of sensor readings and overall vehicle performance.
+- **Adaptive Algorithms:** Incorporates an [Adaptive Genetic Algorithm aided Kalman Filtering (AGAKF)](https://rulerofeternalnight.github.io/publication/2009-10-01-paper-title-number-2) system, significantly enhancing the accuracy of sensor readings and overall vehicle performance.
 
 **Project Highlights:**
 - **Sensor Precision Enhancement:** Developed an innovative AGAKF system to optimize sensor accuracy, reducing error deviations by over 90% compared to traditional methods.
