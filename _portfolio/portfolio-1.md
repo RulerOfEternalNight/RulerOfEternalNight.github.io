@@ -24,8 +24,8 @@ The Sea Dragon is an advanced Autonomous Underwater Vehicle (AUV) designed for u
 </div>
 - **Precision Control System:** Utilizes an L298N motor driver for smooth and precise control of the vehicle's thrusters, ensuring stable maneuvering.
 <div style="display: flex; justify-content: center; align-items: center; max-width: 100%;">
-    <img src='/images/fiter.png' alt="Image 1" style="margin: 10px; max-width: 50%; height: auto;">
-    <img src='/images/fiter.png' alt="Image 1" style="margin: 10px; max-width: 50%; height: auto;">
+    <img src='/images/fiter1.png' alt="Image 1" style="margin: 10px; max-width: 50%; height: auto;">
+    <img src='/images/fiter2.png' alt="Image 1" style="margin: 10px; max-width: 50%; height: auto;">
 </div>
 - **High-Resolution Imaging:** Features a Microsoft LifeCam VX-2000, providing clear underwater visuals for mapping and inspection tasks.
 <div style="display: flex; justify-content: center; align-items: center; max-width: 100%;">
