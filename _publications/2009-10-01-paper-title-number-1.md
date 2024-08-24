@@ -12,4 +12,5 @@ paperurl: 'https://doi.org/10.1109/ICCCNT56998.2023.10308077'
 In this study, parameter estimation of ML models, here specifically, random forest classifier was conducted on a heart disease dataset. We have suggested a new approach to machine learning that hybridizes genetic algorithm with simulated annealing for estimating the hyperparameters of the random forest classifier. This application of hybrid optimization helped in increasing the accuracy of the machine learning model by 10% and is very promising in comparison to various different classification methods for this same problem.
 
 The implementation code and other files can be found at: [Visit](https://github.com/RulerOfEternalNight/AI-based-parameter-estimation-of-ML-model-using-Hybrid-of-Genetic-Algorithm-and-Simulated-Annealing)
+
 IEEE link to paper: [Visit](https://doi.org/10.1109/ICCCNT56998.2023.10308077)
