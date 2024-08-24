@@ -14,7 +14,7 @@ collection: portfolio
 Optimizing hyperparameters is crucial for enhancing the performance of machine learning models. This project presents a hybrid optimization algorithm that combines Genetic Algorithm (GA) and Simulated Annealing (SA) to efficiently search and fine-tune hyperparameters, leading to more accurate and robust models.
 
 ## Based on the paper:
-*J. S. Saravanan and A. Mahadevan, "AI based parameter estimation of ML model using Hybrid of Genetic Algorithm and Simulated Annealing," 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT), Delhi, India, 2023, pp. 1-5, doi: 10.1109/ICCCNT56998.2023.10308077.*
+*J. S. Saravanan and A. Mahadevan, "AI based parameter estimation of ML model using Hybrid of Genetic Algorithm and Simulated Annealing," 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT), Delhi, India, 2023, pp. 1-5, doi: 10.1109/ICCCNT56998.2023.10308077.* [Visit ↗️](https://rulerofeternalnight.github.io/publication/2009-10-01-paper-title-number-1)
 
 ---
 <br>
