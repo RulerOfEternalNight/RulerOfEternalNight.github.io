@@ -12,8 +12,7 @@ collection: portfolio
 **Overview:**
 The Amrita Canteen App is an innovative web application designed to enhance the dining experience by providing real-time insights into canteen operations. Leveraging advanced deep learning (DL) techniques, the app processes video feeds from CCTV cameras to analyze crowd statistics and provide detailed menu insights, helping both students and staff make informed decisions.
 
-<img src='/images/p1.jpeg' width='400' height='300' style='margin-bottom: 20px;'>
-<img src='/images/crowd.png' width='400' height='300' style='margin-bottom: 20px;'>
+<img src='/images/ACapp.jpg' width='auto' height='auto' style='margin-bottom: 20px;'>
 
 **Key Features:**
 - **Real-Time Crowd Monitoring:** Uses deep learning models to analyze CCTV footage, providing real-time updates on crowd density and queue lengths, helping users decide the best time to visit the canteen.
