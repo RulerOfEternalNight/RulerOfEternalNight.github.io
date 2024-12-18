@@ -15,7 +15,7 @@ FotoFind is a sophisticated, end-to-end image retrieval system that leverages ad
 
 ## Key Features
 **Multi-Modal Metadata Extraction:**
-<br/>
+<br/><br/>
 <img src='/images/gsearchs1.png' width='100%' style='margin-bottom: 20px;'>
 
 **Object Detection:** Identifies objects within images using robust detectors like Faster-RCNN and YOLO, generating accurate bounding boxes and object labels.
