@@ -15,6 +15,8 @@ FotoFind is a sophisticated, end-to-end image retrieval system that leverages ad
 
 ## Key Features
 **Multi-Modal Metadata Extraction:**
+<br/>
+<img src='/images/gsearchs1.png' width='100%' style='margin-bottom: 20px;'>
 
 **Object Detection:** Identifies objects within images using robust detectors like Faster-RCNN and YOLO, generating accurate bounding boxes and object labels.
 
@@ -38,45 +40,12 @@ FotoFind is a sophisticated, end-to-end image retrieval system that leverages ad
 - Metadata and features are consolidated and stored in a MySQL relational database, enabling efficient querying and retrieval.
 - Uploaded images are managed in structured local storage for quick access.
 
-## Project Highlights
-
-**Pipeline Integration:**
-- Images are processed through a sequential pipeline combining object detection, captioning, and OCR.
-- Extracted data is normalized and merged into a unified metadata schema to maximize searchability.
-
-**Efficient Retrieval Using Text Similarity:**
-- Leveraged TF-IDF (Term Frequency-Inverse Document Frequency) vectorization to compute word importance within metadata.
-- Implemented Cosine Similarity to rank images based on query relevance, ensuring optimal matching with minimal latency.
-
-**Real-Time Model Execution:**
-- Deployed pre-trained models with GPU acceleration using PyTorch for faster inference.
-- Ensured asynchronous task execution for high-throughput image processing.
-
-**User-Centric Flask Interface:**
-- Built a responsive front-end using HTML/CSS/Jinja2 templates.
-- Designed intuitive upload forms, search fields, and result visualization components.
-
-**Scalability and Future-Proofing:**
-- Engineered the architecture to handle exponential growth with modular processing and extensible databases.
-- Proposed integration with distributed computing frameworks and advanced indexing libraries for future improvements.
-
-## Technologies Used
-
-- Deep Learning Frameworks: PyTorch, Transformers (ViT-GPT2), EasyOCR
-- Web Framework: Flask
-- Search and NLP: TF-IDF, Cosine Similarity
-- Database: MySQL
-- Front-End: HTML, CSS, Jinja2 Templates
-- Storage: Local File System
-- Development Tools: Python 3.9+, PyTorch Lightning, MySQL Connector, OpenCV
-
-## Programming Language
-
-Python
-
-## System Architecture
+## System Architecture and Application Pipeline
 
 FotoFind employs a microservice-style modular architecture that is both scalable and fault-tolerant. The core components include:
+
+<br/>
+<img src='/images/gsearchs2.png' width='100%' style='margin-bottom: 20px;'>
 
 **Web Server (Flask):**
 - Manages user requests, routes, and renders the UI.
@@ -98,6 +67,20 @@ FotoFind employs a microservice-style modular architecture that is both scalable
 **Storage Management:**
 - Physical image files are organized and stored locally for rapid retrieval.
 - Database entries link image paths to their metadata for streamlined management.
+
+## Technologies Used
+
+- Deep Learning Frameworks: PyTorch, Transformers (ViT-GPT2), EasyOCR
+- Web Framework: Flask
+- Search and NLP: TF-IDF, Cosine Similarity
+- Database: MySQL
+- Front-End: HTML, CSS, Jinja2 Templates
+- Storage: Local File System
+- Development Tools: Python 3.9+, PyTorch Lightning, MySQL Connector, OpenCV
+
+## Programming Language
+
+Python
 
 ## Additional Technical Details
 - Preprocessing: Images are preprocessed using OpenCV (resizing, normalization) before being passed to the deep learning models.
@@ -123,8 +106,7 @@ FotoFind successfully bridges the gap between raw visual data and structured inf
 - Ensured seamless user interactions through dynamic result rendering and responsive design.
 
 **Scalable and Modular Design:**
-
-Designed the system to accommodate future extensions, such as GPU-cluster deployments, Elasticsearch integration, or real-time processing capabilities.
+- Designed the system to accommodate future extensions, such as GPU-cluster deployments, Elasticsearch integration, or real-time processing capabilities.
 
 ## Future Scope
 
