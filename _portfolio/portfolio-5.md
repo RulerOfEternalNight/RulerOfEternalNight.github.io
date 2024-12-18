@@ -1,5 +1,5 @@
 ---
-title: "Foto Find : An advanced image retrival system"
+title: "FotoFind: Revolutionizing Image Retrieval with Advanced Computer Vision and NLP Techniques"
 excerpt: "The dramatic rise in digital image creation has presented modern systems with massive repositories of visual data. Managing, indexing, and retrieving relevant images is crucial now due to the various forms in which photos are stored, from personal photo libraries to organizational databases, scientific imagery surveillance data, etc. Conventional solutions often rely on user-generated tags or rudimentary filenames, providing only limited search capabilities. Such manual metadata tagging can be inconsistent and quickly becomes infeasible for extensive datasets.
 To address these bottlenecks, FotoFind implements a pipeline of advanced computer vision and natural language processing models to glean semantic information from images automatically. The synergy of object detection, captioning, and OCR ensures that each image, regardless of its content, gains enriched metadata that can be leveraged to facilitate more nuanced text-based searching. The aim is to streamline and automate a process that would otherwise depend heavily on manual labor.
 
@@ -124,11 +124,7 @@ FotoFind successfully bridges the gap between raw visual data and structured inf
 
 FotoFind demonstrates a robust, technical, and scalable approach to modern image retrieval challenges by integrating cutting-edge computer vision and NLP techniques. Through its multi-modal pipeline, dynamic search functionality, and modular design, it provides a comprehensive solution for managing and querying unstructured visual data efficiently. The project not only underscores the potential of deep learning in revolutionizing image management but also serves as a foundation for further advancements in scalable visual analytics. -->
 
-Here’s a visually appealing version of the text you provided:
-
----
-
-# FotoFind: Revolutionizing Image Retrieval with Advanced Computer Vision and NLP Techniques
+<!-- # FotoFind: Revolutionizing Image Retrieval with Advanced Computer Vision and NLP Techniques -->
 
 ## Overview
 FotoFind is a sophisticated, end-to-end image retrieval system that leverages advanced computer vision and natural language processing (NLP) techniques to automate metadata extraction, indexing, and retrieval of images. Designed to address the exponential growth of unstructured visual data, FotoFind integrates object detection, image captioning, and optical character recognition (OCR) pipelines, transforming raw images into searchable, semantically rich information. It employs state-of-the-art deep learning models, vector-based search methodologies, and a modular Flask-based web architecture to provide a seamless user experience for uploading, browsing, querying, and managing large image repositories.
