@@ -10,7 +10,7 @@ redirect_from:
 My name is Jegadit S Saravanan, and I am a MS CS student at UIC. I did my Bachelors in Computer Science and Engineering at Amrita Vishwa Vidyapeetham, Coimbatore. 
 
 
-<p style="font-size:30px">Visit my new portfolio page: [https://rulerofeternalnight.github.io/newPFlo/](https://rulerofeternalnight.github.io/newPFlo/). PS: Its still being updated.<p>
+<p style="font-size:30px">Visit my new portfolio page: <a href="">https://rulerofeternalnight.github.io/newPFlo/</a>. PS: Its still being updated.<p>
 
 
 I used to be really into cybersecurity, but I've since shifted my focus to Computer Vision for healthcare & robotics.
